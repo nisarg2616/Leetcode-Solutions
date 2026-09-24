@@ -6,6 +6,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
