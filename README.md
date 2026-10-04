@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -25,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
