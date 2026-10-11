@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
