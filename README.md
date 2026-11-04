@@ -34,6 +34,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
