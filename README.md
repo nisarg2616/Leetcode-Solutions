@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4020-elevator-requests-i](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Stack
 |  |
 | ------- |
