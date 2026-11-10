@@ -37,6 +37,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Stack
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
