@@ -60,6 +60,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
