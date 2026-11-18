@@ -22,6 +22,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
