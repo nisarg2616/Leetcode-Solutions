@@ -112,4 +112,12 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nisarg2616/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
